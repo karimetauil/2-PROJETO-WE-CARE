@@ -13,11 +13,17 @@
     
 <br>
 
+
 PRINT DA TELAAA (logo vou postar)
+<br>
 PRINT DA TELAAA (logo vou postar)
+<br>
 PRINT DA TELAAA (logo vou postar)
+<br>
 PRINT DA TELAAA (logo vou postar)
+<br>
 PRINT DA TELAAA (logo vou postar)
+<br>
 PRINT DA TELAAA (logo vou postar)
 
 
