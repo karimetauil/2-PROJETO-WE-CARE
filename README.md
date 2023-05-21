@@ -13,8 +13,8 @@
     
 <br>
 
-PRINT DA TELAAA (logo vou postar)
-<br>
+<img src="https://github.com/karimetauil/2---PROJETO-WE-CARE/blob/main/capturas%20de%20tela/Capturar%20site%20We%20care.PNG">
+
 
 ## 🚀 Tecnologias
 
@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto We Care simula -----------, onde é possível adicionar --------------.
+O Projeto We Care - PC, simula -----------, onde é possível adicionar --------------.
 
 ## 🔖 Layout
 
