@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto Netflix </h1>
+<h1 align="center"> Projeto We Care </h1>
 
  <p align="center">Projeto exclusivo, promovido por Karime Tauil, através de conteúdo disponibilizado pela Plataforma do Curso FullStack Dev Club.</p>
 
@@ -14,7 +14,7 @@
 <br>
 
   <div align="center">
-    <img src="" width="500px">
+    <img src="https://github.com/karimetauil/2-PROJETO-WE-CARE/blob/main/capturas%20de%20tela/Projeto%20We%20Care%20-%20Maxthon%202023-05-22%2010-33-21.mp4"     width="500px">
   </div>
 
 <br>
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto Netflix consiste no desenvolvimento da Home Page da Netflix, tendo como base o projeto original. 
+O Projeto We Care consiste no desenvolvimento da ---------------------. 
 
 <br>
  
