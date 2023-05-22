@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto We Care </h1>
+<h1 align="center"> Projeto Netflix </h1>
 
  <p align="center">Projeto exclusivo, promovido por Karime Tauil, através de conteúdo disponibilizado pela Plataforma do Curso FullStack Dev Club.</p>
 
@@ -25,7 +25,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
   - HTML5
   - CSS3
-  - JavaScript 
  
  <br>
 
@@ -37,11 +36,8 @@ O Projeto Netflix consiste no desenvolvimento da Home Page da Netflix, tendo com
  
 ## 🚩Funcionalidades
 
-- Há simulação de acesso aos conteúdos da página;
-- Ao passar o mouse sobre os botões 'Entrar', 'Português' e 'Vamos lá', o cursor transforma-se em uma mãozinha e também ocorre uma mudança de cor;
-- Através do input há possibilidade de introdução de e-mail;
-- No menu 'Perguntas Frequentes', ao clicar é possivel abrir e fechar a aba, ocorrendo o efeito de rotação da imagem (+), e deste modo constando o significado da palavra Netflix; 
-- Ao clicar nos links do Rodapé, há um direcionamento para uma nova página.
+- 
+- 
 
  <br>
 
@@ -58,3 +54,4 @@ Esse projeto está sob a licença KTDA.
 ---
 
 Feito com ♥ by KARIME TAUIL :wave:   
+
