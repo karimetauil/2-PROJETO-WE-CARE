@@ -1,20 +1,21 @@
 <h1 align="center"> Projeto We Care </h1>
 
- <p align="center">Projeto exclusivo, promovido por Karime Tauil, através de conteúdo disponibilizado pela Plataforma do Curso FullStack Dev Club.</p>
+ <h4 align="center"> Projeto exclusivo, promovido por Karime Tauil, através de conteúdo disponibilizado pela Plataforma do Curso FullStack <a href="https://rodolfomori.com.br/devclub" target="_blank"> Dev Club. </a> </h4>
 
-<br>
+ <br>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
+ <br>
 
   <div align="center">
-    <img src="https://github.com/karimetauil/2-PROJETO-WE-CARE/blob/main/capturas%20de%20tela/Projeto%20We%20Care%20-%20Maxthon%202023-05-22%2010-33-21.mp4"     width="500px">
+    <img src=" "     
+         width="600px">
   </div>
 
 <br>
@@ -32,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Projeto We Care consiste no desenvolvimento da ---------------------. 
 
-<br>
+ <br>
  
 ## 🚩Funcionalidades
 
