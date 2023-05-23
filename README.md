@@ -37,7 +37,7 @@ O Projeto We Care consiste no desenvolvimento de Home Page de um PetShop fake.
  
 ## 🚩Funcionalidades
 
-- Ao passar o mouse sobre os links (parte superior), o cursor transforma-se em uma maõzinha. 
+- Ao passar o mouse sobre os links (parte superior) e também no 'botão' Explore, o cursor transforma-se em uma maõzinha. 
 
  <br>
 
